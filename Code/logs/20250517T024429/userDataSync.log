@@ -1,0 +1,18 @@
+2025-05-17 02:44:35.574 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-05-17 02:44:35.574 [info] [AutoSync] Disabled.
+2025-05-17 03:32:31.717 [info] Sync started.
+2025-05-17 03:32:32.516 [info] Did reset the local sync state.
+2025-05-17 03:32:32.523 [info] Settings: Last sync data state does not exist.
+2025-05-17 03:32:32.719 [info] Settings: Last sync data state does not exist.
+2025-05-17 03:32:32.771 [info] GlobalState: Last sync data state does not exist.
+2025-05-17 03:32:33.037 [info] Settings: Detected conflicts while synchronizing settings.
+2025-05-17 03:32:33.038 [info] Keybindings: Last sync data state does not exist.
+2025-05-17 03:32:33.221 [info] Snippets: Last sync data state does not exist.
+2025-05-17 03:32:33.398 [info] Tasks: Last sync data state does not exist.
+2025-05-17 03:32:33.573 [info] GlobalState: Last sync data state does not exist.
+2025-05-17 03:32:33.938 [info] Extensions: Last sync data state does not exist.
+2025-05-17 03:32:34.238 [info] Prompts: Last sync data state does not exist.
+2025-05-17 03:32:34.416 [info] Profiles: Last sync data state does not exist.
+2025-05-17 03:32:34.596 [info] Profiles: Last sync data state does not exist.
+2025-05-17 03:32:37.100 [info] GlobalState: Last sync data state does not exist.
+2025-05-17 03:32:38.429 [info] Extensions: Last sync data state does not exist.

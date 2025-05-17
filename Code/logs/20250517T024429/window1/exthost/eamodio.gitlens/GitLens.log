@@ -1,0 +1,46 @@
+2025-05-17 02:44:43.179 [info] GitLens v17.1.0 activating in Visual Studio Code (1.100.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (22b383aa69ca0a2a25ba4dd4ed2d5516866670d8559820db56b67060a9a70eba|b5673622-96ca-4782-8e17-8a056454abb31747460674222)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-05-17 02:44:43.736 [info] [2025-05-17 05:44:43.735] [GIT    *505ms] [/home/fiuba/Documents/Proyectos/sisop_2025a_g57] git rev-list --max-parents=0 HEAD -- [*505ms] (slow)
+
+2025-05-17 02:44:47.439 [info] [2025-05-17 05:44:47.192] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/exit.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:44:47.939 [info] [2025-05-17 05:44:47.695] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/fork.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:45:00.346 [info] [2025-05-17 05:44:59.845] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- kern/env.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:47:01.307 [info] [2025-05-17 05:47:00.807] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/types.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:48:14.361 [info] [2025-05-17 05:48:13.861] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/error.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:48:15.862 [info] [2025-05-17 05:48:15.603] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/memlayout.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:48:20.866 [info] [2025-05-17 05:48:20.670] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/string.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:48:38.216 [info] [2025-05-17 05:48:37.715] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/fork.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:50:14.130 [info] [2025-05-17 05:50:13.630] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/lib.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 02:52:04.224 [info] [2025-05-17 05:52:03.724] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/fork.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 03:30:25.953 [info] [2025-05-17 06:30:25.453] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/stab.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 03:31:56.263 [info] [2025-05-17 06:31:55.764] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/stab.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 03:32:07.241 [info] [2025-05-17 06:32:06.740] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- inc/stab.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-17 03:32:38.241 [info] [2025-05-17 06:32:37.740] [GIT    *669ms] [/home/fiuba/.config] git rev-list --max-parents=0 HEAD -- [*669ms] (slow)
+

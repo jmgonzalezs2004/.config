@@ -1,0 +1,12 @@
+2025-05-17 02:44:34.649 [info] Started local extension host with pid 33232.
+2025-05-17 02:44:35.086 [info] ComputeTargetPlatform: linux-x64
+2025-05-17 02:44:37.005 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-17 02:44:39.397 [info] [perf] Render performance baseline is 27ms
+2025-05-17 03:30:04.652 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-17 03:30:23.693 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-17 03:30:24.187 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-17 03:32:16.878 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-17 03:32:31.704 [info] Settings Sync: Updated current session d2c44618a6e2b4f2
+2025-05-17 03:32:31.712 [info] Settings Sync: Token updated for the account undragonIII
+2025-05-17 03:32:31.714 [info] Settings Sync: Account status changed from unavailable to available
+2025-05-17 03:32:39.455 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

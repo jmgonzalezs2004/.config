@@ -1,0 +1,2 @@
+2025-05-17 02:44:42.901 [info] Log level: Info
+2025-05-17 02:48:08.763 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for fiubatps/sisop_2025a_g57/a655e443772822aaa0884837267fad47bed478a3: TypeError: Cannot read properties of null (reading 'author')

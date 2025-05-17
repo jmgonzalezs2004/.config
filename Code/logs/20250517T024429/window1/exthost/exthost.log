@@ -1,0 +1,47 @@
+2025-05-17 02:44:39.203 [info] Extension host with pid 33232 started
+2025-05-17 02:44:39.203 [info] Skipping acquiring lock for /home/fiuba/.config/Code/User/workspaceStorage/bce1e1cf72594d608f837aa54c80b739.
+2025-05-17 02:44:39.248 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-17 02:44:39.299 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-17 02:44:39.329 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2025-05-17 02:44:40.248 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-17 02:44:40.310 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-17 02:44:40.466 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-17 02:44:40.733 [info] Eager extensions activated
+2025-05-17 02:44:40.761 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:40.785 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:40.860 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:41.036 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:41.745 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:42.210 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:42.314 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 02:44:47.312 [warning] TextEditor is closed/disposed
+2025-05-17 02:44:48.131 [warning] TextEditor is closed/disposed
+2025-05-17 02:44:50.284 [warning] TextEditor is closed/disposed
+2025-05-17 02:46:41.285 [warning] TextEditor is closed/disposed
+2025-05-17 02:47:08.897 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:13.513 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:13.879 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:14.651 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:15.706 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:20.118 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:21.063 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:27.521 [warning] TextEditor is closed/disposed
+2025-05-17 02:48:37.174 [warning] TextEditor is closed/disposed
+2025-05-17 02:50:08.051 [warning] TextEditor is closed/disposed
+2025-05-17 02:50:17.328 [warning] TextEditor is closed/disposed
+2025-05-17 02:50:45.235 [warning] TextEditor is closed/disposed
+2025-05-17 02:51:04.455 [warning] TextEditor is closed/disposed
+2025-05-17 02:51:06.219 [warning] TextEditor is closed/disposed
+2025-05-17 02:51:07.044 [warning] TextEditor is closed/disposed
+2025-05-17 02:51:12.091 [warning] TextEditor is closed/disposed
+2025-05-17 03:02:23.349 [warning] TextEditor is closed/disposed
+2025-05-17 03:29:52.398 [warning] TextEditor is closed/disposed
+2025-05-17 03:30:01.385 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 03:30:01.504 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 03:30:01.588 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 03:30:23.035 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 03:30:24.184 [error] Error: ENOENT: no such file or directory, open '/home/fiuba/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-05-17 03:32:16.570 [warning] TextEditor is closed/disposed
+2025-05-17 03:32:28.673 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-05-17 03:32:37.230 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-17 03:32:37.513 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

@@ -1,0 +1,54 @@
+2025-05-16 19:34:35.167 [info] GitLens v17.1.0 activating in Visual Studio Code (1.100.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (22b383aa69ca0a2a25ba4dd4ed2d5516866670d8559820db56b67060a9a70eba|78f26d2f-4f53-4a5b-859c-95d4013d89f81747434861161)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-05-16 19:34:36.476 [info] [2025-05-16 22:34:35.835] [           13] LocalSharedGkStorageLocationProvider.load Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- kern/init.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:34:43.164 [info] [2025-05-16 22:34:42.708] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- kern/pmap.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:34:44.665 [info] [2025-05-16 22:34:44.622] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- kern/syscall.h): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:34:46.666 [info] [2025-05-16 22:34:46.324] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/libmain.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:34:47.698 [info] [2025-05-16 22:34:47.199] [           20] GitCodeLensProvider.provideCodeLenses(TextDocument(c, dirty=false, file:///home/fiuba/Documents/Proyectos/sisop_2025a_g57/sched/lib/ipc.c)) Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/ipc.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:34:49.200 [info] [2025-05-16 22:34:48.885] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/fork.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:18.103 [info] [2025-05-16 22:35:17.602] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- lib/syscall.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:23.615 [info] [2025-05-16 22:35:23.206] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/alloczero.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:25.122 [info] [2025-05-16 22:35:24.820] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/buggyhello2.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:27.637 [info] [2025-05-16 22:35:27.369] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/faultwritekernel.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:28.638 [info] [2025-05-16 22:35:28.318] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/forktree.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:29.652 [info] [2025-05-16 22:35:29.240] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/primes.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:30.152 [info] [2025-05-16 22:35:30.091] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/pingpongs.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:31.651 [info] [2025-05-16 22:35:31.269] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/softint.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:32.653 [info] [2025-05-16 22:35:32.630] [           38] GitCodeLensProvider.provideCodeLenses(TextDocument(c, dirty=false, file:///home/fiuba/Documents/Proyectos/sisop_2025a_g57/sched/user/stresssched.c)) Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/stresssched.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:33.653 [info] [2025-05-16 22:35:33.262] [           3a] GitCodeLensProvider.provideCodeLenses(TextDocument(plaintext, dirty=false, file:///home/fiuba/Documents/Proyectos/sisop_2025a_g57/sched/user/user.ld)) Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/user.ld): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+
+2025-05-16 19:35:34.653 [info] [2025-05-16 22:35:34.286] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 9ab98e1e812241b1a173d56e897177976d97f69b^ -- user/yield.c): fatal: bad revision '9ab98e1e812241b1a173d56e897177976d97f69b^'
+
+

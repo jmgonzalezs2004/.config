@@ -1,0 +1,20 @@
+2025-05-16 19:34:22.641 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 19:34:24.425 [error] [/home/fiuba/.vscode/extensions/github.copilot-chat-0.26.7]: This extension is using the API proposals 'defaultChatParticipant' and 'chatParticipantPrivate' that are not compatible with the current version of VS Code.
+2025-05-16 19:34:25.590 [error] [/home/fiuba/.vscode/extensions/github.copilot-chat-0.26.7.-41043f92.vsctmp]: This extension is using the API proposals 'defaultChatParticipant' and 'chatParticipantPrivate' that are not compatible with the current version of VS Code.
+2025-05-16 19:34:25.814 [info] Deleted marked for removal extension from disk fill-labs.dependi /home/fiuba/.vscode/extensions/fill-labs.dependi-0.7.14
+2025-05-16 19:34:25.873 [info] Deleted marked for removal extension from disk eamodio.gitlens /home/fiuba/.vscode/extensions/eamodio.gitlens-17.0.3
+2025-05-16 19:34:25.912 [info] Marked extension as removed eamodio.gitlens-17.0.3
+2025-05-16 19:34:25.912 [info] Marked extension as removed fill-labs.dependi-0.7.14
+2025-05-16 19:34:25.912 [info] Marked extension as removed github.copilot-1.317.0
+2025-05-16 19:34:25.912 [info] Marked extension as removed github.copilot-chat-0.26.7
+2025-05-16 19:34:25.972 [info] Deleted marked for removal extension from disk github.copilot-chat /home/fiuba/.vscode/extensions/github.copilot-chat-0.26.7
+2025-05-16 19:34:25.980 [info] Deleted marked for removal extension from disk github.copilot /home/fiuba/.vscode/extensions/github.copilot-1.317.0
+2025-05-16 19:34:26.073 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 19:34:28.732 [info] Getting Manifest... github.copilot-chat
+2025-05-16 19:34:28.928 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fiuba/.vscode/extensions/extensions.json","path":"/home/fiuba/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-16 19:34:30.010 [info] Getting Manifest... github.copilot
+2025-05-16 19:34:34.216 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 2962ms.
+2025-05-16 19:34:34.656 [info] Extracted extension to file:///home/fiuba/.vscode/extensions/github.copilot-chat-0.27.1: github.copilot-chat
+2025-05-16 19:34:34.720 [info] Renamed to /home/fiuba/.vscode/extensions/github.copilot-chat-0.27.1
+2025-05-16 19:34:34.802 [info] Marked extension as removed github.copilot-chat-0.27.0
+2025-05-16 19:34:34.831 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/fiuba/.vscode/extensions/extensions.json

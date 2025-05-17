@@ -1,0 +1,57 @@
+2025-05-16 19:34:28.233 [info] Extension host with pid 2386 started
+2025-05-16 19:34:28.233 [info] Skipping acquiring lock for /home/fiuba/.config/Code/User/workspaceStorage/bce1e1cf72594d608f837aa54c80b739.
+2025-05-16 19:34:28.276 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-16 19:34:28.329 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-16 19:34:28.352 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-05-16 19:34:29.434 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-16 19:34:29.533 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'api', root cause: ms-vscode.cpptools
+2025-05-16 19:34:31.043 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-16 19:34:31.251 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-16 19:34:31.424 [info] Eager extensions activated
+2025-05-16 19:34:31.506 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:31.640 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:31.874 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:32.446 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:33.440 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:33.581 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:34:39.990 [warning] TextEditor is closed/disposed
+2025-05-16 19:34:42.994 [warning] TextEditor is closed/disposed
+2025-05-16 19:34:45.817 [warning] TextEditor is closed/disposed
+2025-05-16 19:34:46.716 [warning] TextEditor is closed/disposed
+2025-05-16 19:34:48.394 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:17.115 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:22.829 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:24.452 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:26.883 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:27.852 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:28.873 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:29.609 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:30.814 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:32.167 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:32.797 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:33.833 [warning] TextEditor is closed/disposed
+2025-05-16 19:35:44.715 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-16 19:35:44.757 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-05-16 19:35:44.770 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:120034)
+    at m0.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:8921)
+    at m0.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9017)
+    at Object.dispose (/home/fiuba/.vscode/extensions/eamodio.gitlens-17.1.0/dist/gitlens.js:449:23770)
+    at /home/fiuba/.vscode/extensions/eamodio.gitlens-17.1.0/dist/gitlens.js:726:16074
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/fiuba/.vscode/extensions/eamodio.gitlens-17.1.0/dist/gitlens.js:726:16056)
+    at Er (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:15046
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+    at Array.map (<anonymous>)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+    at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+    at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+    at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-16 19:35:44.839 [info] Extension host with pid 2386 exiting with code 0

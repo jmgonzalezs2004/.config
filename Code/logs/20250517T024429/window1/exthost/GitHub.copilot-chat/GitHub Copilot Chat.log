@@ -1,0 +1,19 @@
+2025-05-17 02:44:43.179 [info] Using the Electron fetcher.
+2025-05-17 02:44:43.180 [info] Initializing Git extension service.
+2025-05-17 02:44:43.180 [info] Successfully activated the vscode.git extension.
+2025-05-17 02:44:43.180 [info] Enablement state of the vscode.git extension: true.
+2025-05-17 02:44:43.180 [info] Successfully registered Git commit message provider.
+2025-05-17 02:44:44.380 [info] Logged in as undragonIII
+2025-05-17 02:44:45.488 [info] Got Copilot token for undragonIII
+2025-05-17 02:44:45.564 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-17 02:44:45.564 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-17 02:44:45.571 [info] Registering default platform agent...
+2025-05-17 02:44:45.608 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-17 02:44:46.067 [info] Fetched model metadata in 568ms c6e54ede-991b-492f-9633-89d1789614c2
+2025-05-17 02:44:46.214 [info] activationBlocker from 'languageModelAccess' took for 2437ms
+2025-05-17 02:59:47.736 [info] Fetched model metadata in 731ms 0efd2cc8-8d7b-458a-9dff-1ae9e35c0d80
+2025-05-17 03:14:47.765 [info] Logged in as undragonIII
+2025-05-17 03:14:48.752 [info] Got Copilot token for undragonIII
+2025-05-17 03:14:48.770 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-17 03:14:48.823 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-17 03:29:49.419 [info] Fetched model metadata in 639ms 7d155a60-ed9a-4ebd-af4a-494354cd9afb

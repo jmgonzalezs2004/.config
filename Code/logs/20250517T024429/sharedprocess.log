@@ -1,0 +1,8 @@
+2025-05-17 02:44:36.009 [info] ComputeTargetPlatform: linux-x64
+2025-05-17 02:44:37.473 [info] ComputeTargetPlatform: linux-x64
+2025-05-17 03:30:20.478 [info] Getting Manifest... vscodevim.vim
+2025-05-17 03:30:20.553 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fiuba/.vscode/extensions/extensions.json","path":"/home/fiuba/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-17 03:30:22.453 [info] Extension signature verification result for vscodevim.vim: Success. Internal Code: 0. Executed: true. Duration: 1074ms.
+2025-05-17 03:30:22.508 [info] Extracted extension to file:///home/fiuba/.vscode/extensions/vscodevim.vim-1.29.2: vscodevim.vim
+2025-05-17 03:30:22.553 [info] Renamed to /home/fiuba/.vscode/extensions/vscodevim.vim-1.29.2
+2025-05-17 03:30:22.646 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/fiuba/.vscode/extensions/extensions.json

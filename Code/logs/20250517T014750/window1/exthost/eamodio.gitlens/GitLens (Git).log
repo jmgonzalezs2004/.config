@@ -1,0 +1,16 @@
+2025-05-17 02:27:15.806 [info] [2025-05-17 05:27:15.593] [         23ms] [/home/fiuba/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io/buffered] git rev-parse --show-toplevel • FAILED
+2025-05-17 02:27:15.806 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-05-17 02:28:09.117 [info] [2025-05-17 05:28:09.117] [         21ms] [/home/fiuba/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io] git rev-parse --show-toplevel • FAILED
+2025-05-17 02:28:09.117 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-05-17 02:33:32.677 [info] [2025-05-17 05:33:32.677] [         30ms] [/home/fiuba/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync] git rev-parse --show-toplevel • FAILED
+2025-05-17 02:33:32.685 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-05-17 02:34:57.227 [info] [2025-05-17 05:34:57.227] [         16ms] [/home/fiuba/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync/poison] git rev-parse --show-toplevel • FAILED
+2025-05-17 02:34:57.227 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
