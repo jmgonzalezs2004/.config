@@ -1,0 +1,4 @@
+2025-05-17 03:33:11.803 [info] [2025-05-17 06:33:11.800] [         17ms] [/home/fiuba/.config] git log --format=%x1E%H%x1D -n2 -L1,1:Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 • FAILED
+2025-05-17 03:33:11.803 [info] 
+Error: fatal: There is no path Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 in the commit
+

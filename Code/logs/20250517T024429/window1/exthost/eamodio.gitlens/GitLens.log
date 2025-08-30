@@ -44,3 +44,10 @@ To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: E
 
 2025-05-17 03:32:38.241 [info] [2025-05-17 06:32:37.740] [GIT    *669ms] [/home/fiuba/.config] git rev-list --max-parents=0 HEAD -- [*669ms] (slow)
 
+2025-05-17 03:33:12.282 [info] [2025-05-17 06:33:11.782] [GIT   *1124ms] [/home/fiuba/.config] git status --porcelain=v2 --branch -u --find-renames -- [*1124ms] (slow)
+[2025-05-17 06:33:11.799] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x1E%H%x1D -n2 -L1,1:Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5): fatal: There is no path Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 in the commit
+
+[2025-05-17 06:33:11.800] [GIT          ] [/home/fiuba/.config] git log --format=%x1E%H%x1D -n2 -L1,1:Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 • There is no path Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 in the commit [17ms]
+[2025-05-17 06:33:11.801] [           94] GitCodeLensProvider.provideCodeLenses(TextDocument(c, dirty=false, file:///home/fiuba/.config/Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5)) 
+Error: fatal: There is no path Code/Backups/5533e59a7d340b0896c259ece895faba/file/-5a7d7bb5 in the commit
+
